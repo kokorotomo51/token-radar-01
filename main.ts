@@ -1,4 +1,4 @@
-// Token Radar, radar-2 (Node 22, standard library only).
+// Token Radar, radar-3 (Node 22, standard library only).
 //
 // The program reads the sealed snapshot — /input/snapshot.json in the grader, or --input
 // <snapshot.json|directory> anywhere else — scores every launch candidate with the model in
